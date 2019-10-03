@@ -1,0 +1,3 @@
+# Robotic Humans
+
+We all have heard tales of the armies of bots that coexist with us on the Internet. One of the key functions of these bots is web scraping, and they relentlessly scan the internet for everything they can access, so they can index it. From a web security point of view, we can often use information that website owners expose to better understand the web application we are trying to break into. Take a look at [this site](https://problems.metactf.com/content/robotichumans) to see if you can find anything interesting.
